@@ -28,10 +28,11 @@ Below is the visual overview of EvolveHer’s workflow:
 
 EvolveHer/
 │
-├── EvolveHer.java # Main menu and navigation
-├── PeriodTracker.java # Handles cycle input and summary
-├── CyclePhase.java # Displays phase insights and tips
-└── JournalTracker.java # Journal writing and viewing
+├── EvolveHer.java         # Main menu and navigation
+├── PeriodTracker.java     # Handles cycle input and summary
+├── CyclePhase.java        # Displays phase insights and tips
+└── JournalTracker.java    # Journal writing and viewing
+
 
 ---
 
