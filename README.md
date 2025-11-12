@@ -1,4 +1,4 @@
-# EvolveHer – A Personal Wellness & Period Tracking.
+# EvolveHer – A Personal Wellness & Period Tracker.
 
 **EvolveHer** is a simple Java application designed to help users track their menstrual cycles, monitor cycle phases, and maintain personal journals — all in one wellness companion.
 
