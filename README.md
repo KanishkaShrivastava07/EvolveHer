@@ -35,13 +35,15 @@ EvolveHer/
 ├── CyclePhase.java        # Displays phase insights and tips  
 └── JournalTracker.java    # Journal writing and viewing  
 
----
+```
 
-## How to Run
+##How to Run
 
-1. Ensure you have **Java 17+** installed.
-2. Place all `.java` files in one folder.
-3. Compile and run:
-   ```bash
-   javac *.java
-   java EvolveHer
+Ensure you have Java 17+ installed.
+
+Place all .java files in one folder.
+
+Compile and run:
+
+javac *.java
+java EvolveHer
