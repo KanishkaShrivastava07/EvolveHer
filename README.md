@@ -19,9 +19,28 @@ A complete cycle and self-care tracker where users can:
 
 Below is the visual overview of EvolveHer’s workflow:
 
-![EvolveHer Flowchart](./bc7e954b-f4e3-423e-94ac-1acd846c31e2.png)
+<img width="930" height="789" alt="image" src="https://github.com/user-attachments/assets/19b8d08a-7859-4e73-9ba7-1e32f5ddc59f" />
+
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
+EvolveHer/
+│
+├── EvolveHer.java # Main menu and navigation
+├── PeriodTracker.java # Handles cycle input and summary
+├── CyclePhase.java # Displays phase insights and tips
+└── JournalTracker.java # Journal writing and viewing
+
+---
+
+
+## How to Run
+
+1. Ensure you have **Java 17+** installed.
+2. Place all `.java` files in one folder.
+3. Compile and run:
+   ```bash
+   javac *.java
+   java EvolveHer
