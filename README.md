@@ -35,9 +35,7 @@ EvolveHer/
 ├── CyclePhase.java        # Displays phase insights and tips  
 └── JournalTracker.java    # Journal writing and viewing  
 
-
 ---
-
 
 ## How to Run
 
