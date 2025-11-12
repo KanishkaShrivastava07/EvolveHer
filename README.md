@@ -15,7 +15,7 @@ A complete cycle and self-care tracker where users can:
 
 ---
 
-## 🖼️ Project Flowchart
+## WorkFlow
 
 Below is the visual overview of EvolveHer’s workflow:
 
