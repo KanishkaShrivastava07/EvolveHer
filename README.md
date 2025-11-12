@@ -37,7 +37,7 @@ EvolveHer/
 
 ```
 
-##How to Run
+## How to Run
 
 Ensure you have Java 17+ installed.
 
@@ -45,5 +45,7 @@ Place all .java files in one folder.
 
 Compile and run:
 
+```markdown
 javac *.java
 java EvolveHer
+```
