@@ -19,7 +19,7 @@ A complete cycle and self-care tracker where users can:
 
 Below is the visual overview of EvolveHer’s workflow:
 
-<img width="930" height="789" alt="image" src="https://github.com/user-attachments/assets/19b8d08a-7859-4e73-9ba7-1e32f5ddc59f" />
+<img width="974" height="798" alt="image" src="https://github.com/user-attachments/assets/c5524f67-72ea-4687-969d-a34116b70ed5" />
 
 
 ---
